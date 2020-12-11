@@ -199,14 +199,13 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: MidnightBlue;
 			text-decoration: none;
 		}
 
 	h1 {
 		font-size: 3.5rem;
 		line-height: 1.2;
-		color: maroon;
 	}
 
 	h2 {
